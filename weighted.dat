@@ -1,0 +1,10 @@
+./oss: generating process with PID (0) [46144] and putting it in queue at time 0.1600804
+- Master PID: 46143
+- Number of forking during this execution: 1
+- Final simulation time of this execution: 0.1601338
+- Number of memory accesses: 0
+- Number of memory accesses per nanosecond: nan memory/second
+- Number of page faults: 0
+- Number of page faults per memory access: nan pagefault/access
+- Average memory access speed: nan ms/n
+- Total memory access time: 0.000000 ms
